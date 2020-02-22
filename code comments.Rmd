@@ -1,0 +1,40 @@
+---
+title: "Code Comments"
+author: "Angela Fu"
+date: "2/21/2020"
+output: html_document
+---
+
+The document is a .do file, so my comments are in this document.
+
+Lines 15-59 clean the data by renaming variables and changing the units so that the measurements are easier to understand.
+
+Lines 16-98 creates instruments for analysis using two different formulas.
+
+Lines 99-167 pares down the dataset so that it only includes the relevant data and generates several new variables.
+
+Lines 168-182 create the first table, which includes summary statistics for the conflicts and aid data used in the study. 
+
+Lines 183-290 create the second table, which present the ordinary least squares estimate of US aid on conflict, as well as the resulting estimates when various controls are added.
+
+Lines 291-417 create table 3, which runs the models in table 2, except with the added instrument of the regularity that a country receives food aid.
+
+Lines 418-525 create table 4, which shows the relationship between food aid and conflict with an additional control on lagged conflict. 
+
+Lines 526-576 create table 5, which examines the various instruments created to see whether they affect the relationship between food aid and conflict.
+
+Lines 577-678 create table 6, which produces another test using the instruments created. I'm not completely sure what the difference is between these tests and the ones in table 5.
+
+Lines 679-862 create table 7, which compares food aid to periods of no conflict or periods during which conflict begins to examine whether aid plays a role in conflict onset.
+
+Lines 863-922 create table 8, which takes the previous findings about food aid and its impact on conflict and breaks it down by the size of the conflicts.
+
+Lines 923-947 create table 9, which looks at whether US wheat aid affects the provision of other types of aid.
+
+Lines 948-981 create table 10, which explores whether food aid affects local crop prices and production.
+
+Lines 982-1106 create table 11, which looks at whether the effects of food aid differ based on whether or not a country had experienced conflict prior to receiving aid. 
+
+Lines 1107-1199 create table 12, which examines the heterogeneity of food aid on civil conflict by looking at factors that could potentially contribute to incidences of civil conflict.
+
+Lines 1200-1285 create table 13, which also examines heterogeneous effects of food aid on civil conflict and looks at factors that could contribute to the misappropriation of food aid.
