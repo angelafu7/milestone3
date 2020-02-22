@@ -1,0 +1,10 @@
+---
+title: "Milestone 3"
+author: "Angela Fu"
+date: "2/21/2020"
+output: html_document
+---
+
+My paper analyzes the influence food aid from the United States has on levels of conflict in countries receiving aid. The study examined US wheat production and incidences of conflict, defined as incidences involving the use of armed force and resulting in at least 25 battle deaths per year. The study found that increases in levels of aid are positively associated with an increase in conflict. The authors conclude that their findings suggest that aid can prolong conflict, though aid may not necessarily create conflict. 
+
+Repo: https://github.com/angelafu7/milestone3.git
